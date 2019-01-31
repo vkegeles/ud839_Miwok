@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 // Create a new intent to open the {@link NumbersActivity}
                 Intent numbersIntent = new Intent(MainActivity.this, NumbersActivity.class);
 
-                // Start the new activity
+                // Start the new activity jj
                 startActivity(numbersIntent);
             }
         });
